@@ -1,3 +1,5 @@
+package Lab002_exercises;
+
 public class ex_02_Java_printf {
 
    public static void main() {
